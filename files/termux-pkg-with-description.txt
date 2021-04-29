@@ -1,0 +1,1568 @@
+8086tiny - A PC XT-compatible emulator/virtual machine
+aalib - A portable ASCII art graphic library
+aalib-static - Static libraries for aalib
+aapt - Android Asset Packaging Tool
+abduco - Clean and simple terminal session manager
+abook - Abook is a text-based addressbook program designed to use with mutt mail client
+ack-grep - Tool like grep optimized for programmers
+acr - A fully compatible autoconf replacement
+adb - Android Debug Bridge. A versatile command line tool that lets you communicate with an emulator instance or connected Android-powered device.
+adwaita-icon-theme - GNOME standard icons
+algernon - Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support
+alpine - Fast, easy to use email client
+angband - Dungeon exploration adventure game
+antibody - The fastest shell plugin manager
+antiword - A free MS Word reader
+apache2 - Apache Web Server
+apksigner - APK signing tool
+apr - Apache Portable Runtime Library
+apr-static - Static libraries for apr
+apr-util - Apache Portable Runtime Utility Library
+apr-util-static - Static libraries for apr-util
+apt - Front-end for the dpkg package manager
+apt-ftparchive - apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source
+apt-transport-tor - APT transport for anonymous package downloads via Tor
+aptly - A Swiss Army knife for Debian repository management.
+argp - Standalone version of arguments parsing functions from GLIBC
+aria2 - Download utility supporting HTTP/HTTPS, FTP, BitTorrent and Metalink
+arj - Open-source version of arj archiver
+asciidoc - Text document format for short documents, articles, books and UNIX man pages.
+asciidoctor - An implementation of AsciiDoc in Ruby
+asciinema - Record and share your terminal sessions, the right way
+aspell - A free and open source spell checker designed to replace Ispell
+aspell-static - Static libraries for aspell
+assimp - Library to import various well-known 3D model formats in an uniform manner
+assimp-static - Static libraries for assimp
+at - AT and batch delayed command scheduling utility and daemon
+aterm - An xterm replacement with transparency support
+atk - The interface definitions of accessibility infrastructure
+atomicparsley - Read, parse and set metadata of MPEG-4 and 3gp files
+atomvm - The minimal Erlang VM implementation
+attr - Utilities for manipulating filesystem extended attributes
+attr-static - Static libraries for attr
+autoconf - Creator of shell scripts to configure source code packages
+automake - Tool for automatically generating Makefile.in files
+autossh - Automatically restart SSH sessions and tunnels
+axel - light command line download accelerator
+azpainter - Full color painting software for Unix-like systems for illustration drawing (unofficial)
+babl - Dynamic pixel format translation library
+barcode - Tool to convert text strings to printed bars
+bash - A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)
+bash-completion - Programmable completion for the bash shell
+bastet - Tetris clone with 'bastard' block-choosing AI
+bat - A cat(1) clone with wings
+bc - Arbitrary precision numeric processing language
+beanshell - Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java
+bftpd - Small, easy-to-configure FTP server
+bgrep - Binary string grep tool
+biber - A Unicode-capable BibTeX replacement for biblatex users
+binutils - Collection of binary tools, the main ones being ld, the GNU linker, and as, the GNU assembler
+binutils-gold - gold linker
+bison - General-purpose parser generator
+bison-static - Static libraries for bison
+bitcoin - Bitcoin Core
+blackbox - Safely store secrets in Git/Mercurial/Subversion
+blogc - A blog compiler
+bmon - Bandwidth monitor and rate estimator
+bochs - Bochs is a highly portable open source IA-32 (x86) PC emulator and debugger written in C++.
+boinc - Open-source software for volunteer computing
+boinctui - curses based manager for Boinc client
+boost - Free peer-reviewed portable C++ source libraries
+boost-static - Static libraries for boost
+bootsignature - Signing boot images for Android Verified Boot (AVB) [v8] by Chainfire
+borgbackup - Deduplicating and compressing backup program
+brogue - Roguelike dungeon crawling game
+brotli - lossless compression algorithm and format (command line utility)
+brotli-static - Static libraries for brotli
+bsdtar - The tar(1) and cpio(1) programs from FreeBSD, using libarchive
+build-essential - A metapackage that installs essential development tools
+busybox - Tiny versions of many common UNIX utilities into a single small executable
+bvi - Binary file editor based on vi
+byobu - Byobu is a GPLv3 open source text-based window manager and terminal multiplexer
+bzip2 - Tools for working with bzip2 compression
+c-ares - Library for asynchronous DNS requests (including name resolves)
+c-toxcore - Backend library for the Tox protocol
+c-toxcore-static - Static libraries for c-toxcore
+ca-certificates - Common CA certificates
+ca-certificates-java - Common CA certificates (java keystore format)
+cabextract - A program to extract Microsoft cabinet (.CAB) files
+caddy - Fast, cross-platform HTTP/2 web server
+calc - Arbitrary precision console calculator
+calcurse - calcurse is a calendar and scheduling application for the command line
+capstone - Lightweight multi-platform, multi-architecture disassembly framework
+capstone-static - Static libraries for capstone
+cava - Console-based Audio Visualizer. Works with MPD and Pulseaudio
+cavez-of-phear - A Boulder Dash like game for consoles/terminals
+cboard - PGN browser, editor and chess engine frontend
+ccache - Compiler cache for fast recompilation of C/C++ code
+ccls - C/C++/ObjC language server
+ccnet - Ccnet is a framework for writing networked applications in C
+ccnet-static - Static libraries for ccnet
+ccrypt - Secure encryption and decryption of files and streams utility
+cfengine - CFEngine is a configuration management technology.
+cfengine-static - Static libraries for cfengine
+cgal - Computational Geometry Algorithms Library
+cgdb - A lightweight curses (terminal-based) interface to the GNU Debugger (GDB)
+chezmoi - Manage your dotfiles across multiple machines
+chromaprint - C library for generating audio fingerprints used by AcoustID
+cicada - A bash like Unix shell
+clamav - Anti-virus toolkit for Unix
+clamav-static - Static libraries for clamav
+clang - C language frontend for LLVM
+cmake - Family of tools designed to build, test and package software
+cmake-curses-gui - Curses based user interface for CMake (ccmake)
+cmark - CommonMark parsing and rendering program
+cmark-static - Static libraries for cmark
+cmatrix - Command producing a Matrix-style animation
+cmus - Small, fast and powerful console music player
+cmusfm - Last.fm standalone scrobbler for the cmus music player
+codecrypt - The post-quantum cryptography tool
+colordiff - Tool to colorize 'diff' output
+command-not-found - Suggest installation of packages in interactive shell sessions
+coreutils - Basic file, shell and text manipulation utilities from the GNU project
+corkscrew - A tool for tunneling SSH through HTTP proxies
+cowsay - Program which generates ASCII pictures of a cow with a message
+cpio - CPIO implementation from the GNU project
+cppcheck - tool for static C/C++ code analysis
+cppi - Indents C preprocessor directives to reflect their nesting, among other regularizations
+cpuinfo - cpuinfo is a library to detect essential for performance optimization information about host CPU.
+cronie - Daemon that runs specified programs at scheduled times and related tools
+crunch - Highly customizable wordlist generator
+cryptopp - A free C++ class library of cryptographic schemes
+cscope - A developers tool for browsing program code
+ctags - Universal ctags: Source code index builder
+ctypes-sh - A foreign function interface for bash
+cups - Common UNIX Printing System
+cups-static - Static libraries for cups
+curl - Command line tool for transferring data with URL syntax
+curseofwar - Fast-paced action strategy game focusing on high-level strategic planning
+cvs - Concurrent Versions System
+daemonize - Run a command as a Unix daemon
+darkhttpd - A simple webserver, implemented in a single .c file.
+dart - Dart is a general-purpose programming language
+dash - Small POSIX-compliant implementation of /bin/sh
+dasm - Macro assembler with support for several 8-bit microprocessors
+datamash - Program performing numeric, textual and statistical operations
+db - The Berkeley DB embedded database system
+dbus - Freedesktop.org message bus system
+dbus-glib - GLib bindings for DBUS
+dbus-glib-static - Static libraries for dbus-glib
+dbus-static - Static libraries for dbus
+dcraw - Raw digital camera images decoding utility
+ddrescue - GNU data recovery tool
+debianutils - Small utilities which are used primarily by the installation scripts of Debian packages
+debootstrap - Bootstrap a basic Debian system
+desktop-file-utils - Command line utilities for working with desktop entries
+deutex - WAD composer for Doom, Heretic, Hexen, and Strife
+dialog - Application used in shell scripts which displays text user interface widgets
+dialog-static - Static libraries for dialog
+dictd - Online dictionary client and server
+diffutils - Programs (cmp, diff, diff3 and sdiff) related to finding differences between files
+dirb - Web Directory Fuzzer.
+direnv - Environment switcher for shell
+direvent - Monitor of events in file system directories
+diskus - A minimal, fast alternative to 'du -sh'
+distcc - Distributed C/C++ compiler.
+dmenu - Generic menu for X
+dns2tcp - dns2tcp is a tool for relaying TCP connections over DNS
+dnsmap - Subdomain Bruteforcing Tool
+dnsutils - Clients provided with BIND
+dnsutils-static - Static libraries for dnsutils
+docbook-xml - A widely used XML scheme for writing documentation and help
+docbook-xsl - XML stylesheets for Docbook-xml transformations
+docopt - Command line arguments parser for C++11 and later
+docopt-static - Static libraries for docopt
+dopewars - Drug-dealing game set in streets of New York City
+dos2unix - Converts between DOS and Unix text files
+dosbox - Emulator with builtin DOS for running DOS Games
+double-conversion - Binary-decimal and decimal-binary routines for IEEE doubles
+doxygen - A documentation system for C++, C, Java, IDL and PHP
+dpkg - Debian package management system
+dropbear - Small SSH server and client
+dtc - Device Tree Compiler
+dtc-static - Static libraries for dtc
+dte - A small, configurable console text editor
+duc - High-performance disk usage analyzer
+duktape - Simple REPL for Duktape
+dvtm - Terminal tiling window manager
+dwm - A dynamic window manager for X
+dx - Command which takes in Java class files and converts them to format executable by Dalvik VM
+e2fsprogs - EXT 2/3/4 filesystem utilities
+ecj - Eclipse Compiler for Java
+ed - Classic UNIX line editor
+eigen - Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms
+electric-fence - Electric Fence (eFence) malloc memory debugger
+electric-fence-static - Static libraries for electric-fence
+electrum - Electrum is a lightweight Bitcoin wallet.
+elinks - Full-Featured Text WWW Browser
+elixir - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+elvish - A friendly and expressive Unix shell
+emacs - Extensible, customizable text editor-and more
+emacs-x - Extensible, customizable text editor-and more (with X11 support)
+enscript - Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes
+entr - Event Notify Test Runner - run arbitrary commands when files change
+erlang - General-purpose concurrent functional programming language
+espeak - Compact software speech synthesizer
+espeak-static - Static libraries for espeak
+exa - A modern replacement for ls
+exiftool - Utility for reading, writing and editing meta information in a wide variety of files.
+exiv2 - Exif, Iptc and XMP metadata manipulation library and tools
+exiv2-static - Static libraries for exiv2
+exo - Application library for XFCE
+exo-static - Static libraries for exo
+expect - Tool for automating interactive terminal applications
+ext4fs-tools - Android img tools: make_ext4fs img2simg simg2img sefcontext_decompile.
+fakeroot - Tool for simulating superuser privileges (with tcp ipc)
+fakeroot-static - Static libraries for fakeroot
+fasd - To fastly access files and folders
+fastboot - Android fastboot tool. A command line tool for flashing an Android device, boot an Android device to fastboot mode, etc..
+fastmod - Regex-based code refactoring utility
+fd - Simple, fast and user-friendly alternative to find
+fdroidcl - F-Droid client
+fdupes - Duplicates file detector
+feh - Fast and light imlib2-based image viewer
+fetchmail - A remote-mail retrieval utility
+ffmpeg - Tools and libraries to manipulate a wide range of multimedia formats and protocols
+fftw - Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions
+fftw-static - Static libraries for fftw
+figlet - Program for making large letters out of ordinary text
+file - Command-line tool that tells you in words what kind of data a file contains
+file-static - Static libraries for file
+finch - Text-based multi-protocol instant messaging client
+finch-static - Static libraries for finch
+findutils - Utilities to find files meeting specified criteria and perform various actions on the files which are found
+fish - Shell geared towards interactive use
+flac - FLAC (Free Lossless Audio Codec) command-line tool
+flex - Fast lexical analyser generator
+flex-static - Static libraries for flex
+florence - A configurable on-screen virtual keyboard
+fltk - Graphical user interface toolkit for X
+fltk-static - Static libraries for fltk
+fluxbox - A lightweight and highly-configurable window manager
+fmt - Open-source formatting library for C++
+fontconfig - Library for configuring and customizing font access
+fontconfig-static - Static libraries for fontconfig
+fontconfig-utils - Fontconfig binaries
+fortune - Revealer of fortunes
+fossil - DSCM with built-in wiki, http interface and server, tickets database
+freeglut - Provides functionality for small OpenGL programs
+freeglut-static - Static libraries for freeglut
+freeimage - The library project for developers who would like to support popular graphics image formats.
+freeimage-static - Static libraries for freeimage
+freetype - Software font engine capable of producing high-quality output
+freetype-static - Static libraries for freetype
+fribidi - Implementation of the Unicode Bidirectional Algorithm
+fribidi-static - Static libraries for fribidi
+frobtads - TADS is a free authoring system for writing your own Interactive Fiction
+frogcomposband - Open world Angband variant with many additions
+frotz - Interpreter for Infocom and other Z-machine interactive fiction (IF) games
+fselect - Find files with SQL-like queries
+fsmon - Filesystem monitor with fanotify and inotify backends
+fvwm - A multiple large virtual desktop window manager originally derived from twm.
+fwknop - fwknop: Single Packet Authorization > Port Knocking
+fwknop-static - Static libraries for fwknop
+fzf - Command-line fuzzy finder
+galculator - GTK+ based scientific calculator
+game-repo - Package repository containing games for termux
+gap - GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory
+gap-static - Static libraries for gap
+garcon - Implementation of the freedesktop.org menu specification
+garcon-static - Static libraries for garcon
+gatling - A high performance http, ftp and smb server
+gawk - Programming language designed for text processing
+gawk-static - Static libraries for gawk
+gbt - Highly configurable prompt builder for Bash and ZSH written in Go
+gcal - Program for calculating and printing calendars
+gdal - A translator library for raster and vector geospatial data formats
+gdal-static - Static libraries for gdal
+gdb - The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages
+gdbm - Library of database functions that use extensible hashing
+gdbm-static - Static libraries for gdbm
+gdk-pixbuf - Library for image loading and manipulation
+geany - Fast and lightweight IDE
+geany-static - Static libraries for geany
+gegl - Data flow based image processing framework
+geoip2-database - GeoLite2 IP geolocation databases compiled by MaxMind
+getconf - Utility to print configuration values
+geth - Go implementation of the Ethereum protocol
+geth-utils - Additional utilities for Geth (like abigen, bootnode, evm, puppeth)
+gettext - GNU Internationalization utilities
+gettext-static - Static libraries for gettext
+gflags - A C++ library that implements commandline flags processing
+gflags-static - Static libraries for gflags
+gh - GitHub’s official command line tool
+ghc - The Glasgow Haskell Compilation system
+ghostscript - Interpreter for the PostScript language and for PDF
+giflib - A library for reading and writing gif images
+giflib-static - Static libraries for giflib
+giflib-utils - A set of utilities that comes with giflib package
+gifsicle - Tool for creating, editing, and getting information about GIF images and animations
+gifski - GIF encoder based on libimagequant
+git - Fast, scalable, distributed revision control system
+git-crypt - Enables transparent encryption and decryption of files for a git repository
+git-delta - A syntax-highlighter for git and diff output
+git-gitk - Git repository browser
+git-gui - A graphical interface to Git
+git-lfs - Git extension for versioning large files
+gitea - Git with a cup of tea, painless self-hosted git service
+gitflow-avh - Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality.
+gkermit - Simple, Portable, Free File Transfer Software for UNIX
+glew - The OpenGL Extension Wrangler Library
+glew-static - Static libraries for glew
+glib - Library providing core building blocks for libraries and applications written in C
+glib-bin - Programs for the GLib library
+global - Source code search and browse tools
+global-static - Static libraries for global
+glu - Mesa OpenGL Utility library
+glu-static - Static libraries for glu
+glulxe - Interpreter for the Glulx portable VM for interactive fiction (IF) games
+gmic - Full-featured framework for image processing
+gmic-gm - Full-featured framework for image processing (GraphicsMagick variant)
+gnucap - The Gnu Circuit Analysis Package
+gnuchess - Chess-playing program
+gnugo - Program that plays the game of Go
+gnuit - gnuit - GNU Interactive Tools
+gnunet - A framework for secure peer-to-peer networking
+gnunet-static - Static libraries for gnunet
+gnupg - Implementation of the OpenPGP standard for encrypting and signing data and communication
+gnuplot - Command-line driven graphing utility
+gnurl - Fork of libcurl, which is mostly for GNUnet
+gnurl-static - Static libraries for gnurl
+gnushogi - Program that plays the game of Shogi, also known as Japanese Chess
+gnuski - Open source clone of Skifree, the old Windows game
+gnutls - Commandline utilities for interfacing with the gnutls library
+go-findimagedupes - Find visually similar or duplicate images
+goaccess - An open source real-time web log analyzer and interactive viewer
+golang - Go programming language compiler
+golang-doc - Go programming language - documentation
+google-glog - Logging library for C++
+googletest - Google C++ testing framework
+gopass - The slightly more awesome standard unix password manager for teams.
+gotty - Share your terminal as a web application
+gperf - A perfect hash function generator
+gpg-crypter - A graphical front-end to GnuPG(GPG) using the GTK3 toolkit and libgpgme
+gpgme - Library designed to make access to GnuPG easier
+gpgme-static - Static libraries for gpgme
+gpgv - GNU privacy guard - signature verification tool
+gpsbabel - GPS file conversion plus transfer to/from GPS units
+graphicsmagick - Collection of image processing tools
+graphicsmagick-static - Static libraries for graphicsmagick
+graphviz - Rich set of graph drawing tools
+graphviz-static - Static libraries for graphviz
+greed - Game where you try to eat as much as possible of the board before munching yourself into a corner
+grep - Command which searches one or more input files for lines containing a match to a specified pattern
+gsl - GNU Scientific Library (GSL) providing a wide range of mathematical routines
+gsl-static - Static libraries for gsl
+gst-plugins-bad - GStreamer Bad Plug-ins
+gst-plugins-bad-static - Static libraries for gst-plugins-bad
+gst-plugins-base - GStreamer base plug-ins
+gst-plugins-base-static - Static libraries for gst-plugins-base
+gst-plugins-good - GStreamer Good Plug-ins
+gst-plugins-good-static - Static libraries for gst-plugins-good
+gst-plugins-ugly - GStreamer Ugly Plug-ins
+gst-plugins-ugly-static - Static libraries for gst-plugins-ugly
+gstreamer - Open source multimedia framework
+gstreamer-static - Static libraries for gstreamer
+gtk-update-icon-cache - GTK+ icon cache updater
+gtk2 - GObject-based multi-platform GUI toolkit (legacy)
+gtk2-static - Static libraries for gtk2
+gtk3 - GObject-based multi-platform GUI toolkit
+gtk3-static - Static libraries for gtk3
+gtkwave - A wave viewer which reads LXT, LXT2, VZT, GHW and VCD/EVCD files
+gtypist - Universal typing tutor
+guile - Portable, embeddable Scheme implementation written in C
+guile-static - Static libraries for guile
+guile18 - Portable, embeddable Scheme implementation written in C. (legacy branch)
+guile18-static - Static libraries for guile18
+gumbo-parser - An HTML5 parsing library
+gumbo-parser-static - Static libraries for gumbo-parser
+gzip - Standard GNU file compression utilities
+haproxy - The Reliable, High Performance TCP/HTTP Load Balancer
+harfbuzz - OpenType text shaping engine
+harfbuzz-icu - OpenType text shaping engine ICU backend
+harfbuzz-utils - Tools using the harfbuzz library
+hashcat - World's fastest and most advanced password recovery utility
+hashdeep - Programs to compute hashsums of arbitrary number of files recursively
+help2man - Conversion tool to create man files.
+heroku - The Heroku Command Line Interface (CLI) makes it easy to create and manage your Heroku apps directly from the terminal. It’s an essential part of using Heroku.
+hexchat - A popular and easy to use graphical IRC (chat) client
+hexcurse - Console hexeditor
+hexedit - view and edit files in hexadecimal or in ASCII
+hexyl - A command-line hex viewer
+heyu - Program for remotely controlling lights and appliances
+hfsutils - Tool for manipulating HFS images.
+hicolor-icon-theme - Freedesktop.org Hicolor icon theme
+hiptext - Turn images into text better than caca/aalib
+hoedown - Hoedown is a revived fork of Sundown, the Markdown parser based on the original code of the Upskirt library
+hoedown-static - Static libraries for hoedown
+hollywood - Fill your console with Hollywood melodrama technobabble
+hors - Instant coding answers via the command line (howdoi in rust)
+html2text - Utility that converts HTML documents into plain text
+htop - Interactive process viewer for Linux
+httping - ping-like program for http-requests
+httrack - It allows you to download a World Wide Web site from the Internet
+httrack-static - Static libraries for httrack
+hub - Command-line wrapper for git that makes you better at GitHub
+hugo - A fast and flexible static site generator
+hunspell - Spell checker
+hunspell-en-us - American english dictionary for hunspell
+hunspell-ru - Russian dictionary for hunspell
+hunspell-static - Static libraries for hunspell
+hydra - Network logon cracker supporting different services
+hyperfine - A command-line benchmarking tool
+i2pd - A full-featured C++ implementation of the I2P router
+i2pd-static - Static libraries for i2pd
+i3 - An improved dynamic tiling window manager
+i3status - Generates status bar to use with i3bar
+icecast - Icecast is a streaming media (audio/video) server
+iconv - Utility converting between different character encodings
+icu-devtools - Development utilities for International Components for Unicode
+imagemagick - Suite to create, edit, compose, or convert images in a variety of formats
+imagemagick-static - Static libraries for imagemagick
+img2sdat - Convert sparse EXT4 image to sparse Android data image
+imgflo - HTTP image processing server & Flowhub.io compatible runtime
+imlib2 - Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support
+imlib2-static - Static libraries for imlib2
+indent - C language source code formatting program
+inetutils - Collection of common network programs
+inotify-tools - Programs providing a simple interface to inotify
+inotify-tools-static - Static libraries for inotify-tools
+ipcalc - Calculates IP broadcast, network, Cisco wildcard mask, and host ranges
+iperf3 - TCP, UDP, and SCTP network bandwidth measurement tool
+iperf3-static - Static libraries for iperf3
+ipfs - A peer-to-peer hypermedia distribution protocol
+ipmitool - Command-line interface to IPMI-enabled devices
+ired - Minimalist hexadecimal editor
+irssi - Terminal based IRC client
+iso-codes - Lists of the country, language, and currency names
+isync - IMAP and MailDir mailbox synchronizer
+iverilog - Icarus Verilog compiler and simulation tool
+iverilog-static - Static libraries for iverilog
+iwyu - A tool to analyze #includes in C and C++ source files
+jbig2dec - Decoder implementation of the JBIG2 image compression format
+jbig2dec-static - Static libraries for jbig2dec
+jfrog-cli - A CLI for JFrog products.
+jftui - jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server.
+jhead - Exif Jpeg header manipulation tool
+jigdo - Distribute large images by sending and receiving the files that make them up
+jo - JSON output from a shell
+joe - Wordstar like text editor
+jp2a - A simple JPEG to ASCII converter
+jpegoptim - JPEG optimizer that recompresses image files to a smaller size, without losing any information
+jq - Command-line JSON processor
+jq-static - Static libraries for jq
+json-c - A JSON implementation in C
+json-c-static - Static libraries for json-c
+json-glib - GLib JSON manipulation library
+jsoncpp - C++ library for interacting with JSON
+jupp - User friendly full screen text editor
+k2pdfopt - A tool that optimizes PDF files for viewing on mobile readers
+kakoune - Code editor heavily inspired by Vim
+keybase - Key directory that maps social media identities to encryption keys
+keychain - keychain ssh-agent front-end
+keystone - Keystone is a lightweight multi-platform, multi-architecture assembler framework
+kibi - A tiny terminal text editor, written in Rust
+knockd - A port-knocking daemon
+kona - Open-source implementation of the APL-like K programming language
+krb5 - The Kerberos network authentication system
+kubectl - Kubernetes.io client binary
+lame - High quality MPEG Audio Layer III (MP3) encoder - frontend
+lastpass-cli - LastPass command line interface tool
+lazyread - An auto-scroller, pager, and e-book reader all in one
+ldc - D programming language compiler, built with LLVM
+ldns - Library for simplifying DNS programming and supporting recent and experimental RFCs
+ldns-static - Static libraries for ldns
+leafpad - GTK+ based simple text editor
+ledger - Powerful, double-entry accounting system
+leptonica - Library for image processing and image analysis
+leptonica-static - Static libraries for leptonica
+less - Terminal pager program used to view the contents of a text file one screen at a time
+lesspipe - An input filter for the pager less
+leveldb - Fast key-value storage library
+lexter - A real-time word puzzle for text terminals
+lf - Terminal file manager
+lftp - FTP/HTTP client and file transfer program
+lftp-static - Static libraries for lftp
+lhasa - LHA compressor/decompressor
+lhasa-static - Static libraries for lhasa
+libacl - Access control list shared library
+libacl-static - Static libraries for libacl
+libandroid-glob - Shared library for the glob(3) system function
+libandroid-glob-static - Static libraries for libandroid-glob
+libandroid-shmem - System V shared memory emulation on Android using ashmem
+libandroid-shmem-static - Static libraries for libandroid-shmem
+libandroid-spawn - Shared library for the posix_spawn system function
+libandroid-spawn-static - Static libraries for libandroid-spawn
+libandroid-support - Library extending the Android C library (Bionic) for additional multibyte, locale and math support
+libandroid-support-static - Static libraries for libandroid-support
+libao - A cross platform audio library
+libao-static - Static libraries for libao
+libarchive - Multi-format archive and compression library
+libarchive-static - Static libraries for libarchive
+libart-lgpl - A library for high-performance 2D graphics
+libart-lgpl-static - Static libraries for libart-lgpl
+libasm - Library to assemble and disassemble instructions
+libasm-static - Static library to assemble and disassemble instructions
+libass - A portable library for SSA/ASS subtitles rendering
+libass-static - Static libraries for libass
+libassuan - Library implementing the Assuan IPC protocol used between most newer GnuPG components
+libassuan-static - Static libraries for libassuan
+libblocksruntime - LLVM Blocks runtime library
+libbsd - utility functions from BSD systems
+libbsd-static - Static libraries for libbsd
+libburn - Library for reading, mastering and writing optical discs
+libburn-static - Static libraries for libburn
+libbz2 - BZ2 format compression library
+libc++ - C++ Standard Library
+libcaca - Graphics library that outputs text instead of pixels
+libcaca-static - Static libraries for libcaca
+libcairo - Cairo 2D vector graphics library
+libcairo-static - Static libraries for libcairo
+libcap - POSIX 1003.1e capabilities
+libcap-static - Static libraries for libcap
+libcln - CLN is a library for efficient computations with all kinds of numbers in arbitrary precision
+libcln-static - Static libraries for libcln
+libcoap - Implementation of CoAP, a lightweight protocol for resource constrained devices
+libcoap-static - Static libraries for libcoap
+libconfig - C/C++ Configuration File Library
+libconfig-static - Static libraries for libconfig
+libconfuse - Small configuration file parser library for C
+libconfuse-static - Static libraries for libconfuse
+libcroco - CSS parsing and manipulation library
+libcroco-static - Static libraries for libcroco
+libcrypt - A crypt(3) implementation
+libcue - CUE Sheet Parser Library
+libcurl - Easy-to-use client-side URL transfer library
+libcurl-static - Static libraries for libcurl
+libdav1d - AV1 cross-platform decoder focused on speed and correctness
+libdb - The Berkeley DB embedded database system (library)
+libdb-static - Static libraries for libdb
+libdispatch - The libdispatch project, for concurrency on multicore hardware
+libdrm - Userspace interface to kernel DRM services
+libduktape - An embeddable Javascript engine with a focus on portability and compact footprint
+libdw - Library to read DWARF information
+libdw-static - Static library to read DWARF information
+libebml - Extensible Binary Meta Language library
+libedit - Library providing line editing, history, and tokenization functions
+libedit-static - Static libraries for libedit
+libelf - ELF object file access library
+libelf-static - Static libraries for libelf
+libepoxy - Library handling OpenGL function pointer management
+libev - Full-featured and high-performance event loop library
+libev-static - Static libraries for libev
+libevdev - Wrapper library for evdev devices
+libevdev-static - Static libraries for libevdev
+libevent - Library that provides asynchronous event notification
+libexif - Library for reading and writing EXIF image metadata
+libexif-static - Static libraries for libexif
+libexpat - XML parsing C library
+libexpat-static - Static libraries for libexpat
+libfakekey - X virtual keyboard library.
+libfakekey-static - Static libraries for libfakekey
+libffi - Library providing a portable, high level programming interface to various calling conventions
+libffi-static - Static libraries for libffi
+libflac - FLAC (Free Lossless Audio Codec) library
+libflac-static - Static libraries for libflac
+libfm - Library for file management
+libfm-extra - Extra library for file management
+libfm-extra-static - Static libraries for libfm-extra
+libfm-static - Static libraries for libfm
+libfontenc - X11 font encoding library
+libfontenc-static - Static libraries for libfontenc
+libgc - Library providing the Boehm-Demers-Weiser conservative garbage collector
+libgc-static - Static libraries for libgc
+libgcrypt - General purpose cryptographic library based on the code from GnuPG
+libgcrypt-static - Static libraries for libgcrypt
+libgd - GD is an open source code library for the dynamic creation of images by programmers
+libgd-static - Static libraries for libgd
+libgeos - Geometry Engine, C++ port of the Java Topology Suite
+libgfshare - Utilities for multi-way secret-sharing
+libgfshare-static - Static libraries for libgfshare
+libgit2 - C library implementing Git core methods
+libglade - Allows you to load glade interface files in a program at runtime
+libglade-static - Static libraries for libglade
+libgmime - MIME message parser and creator
+libgmime-static - Static libraries for libgmime
+libgmp - Library for arbitrary precision arithmetic
+libgmp-static - Static libraries for libgmp
+libgnomecanvas - The GNOME Canvas library
+libgnomecanvas-static - Static libraries for libgnomecanvas
+libgnutls - Secure communications library implementing the SSL, TLS and DTLS protocols and technologies around them
+libgnutls-static - Static libraries for libgnutls
+libgpg-error - Small library that defines common error values for all GnuPG components
+libgpg-error-static - Static libraries for libgpg-error
+libgraphite - Font system for multiple languages
+libgrpc - High performance, open source, general RPC framework that puts mobile and HTTP/2 first
+libgsasl - GNU SASL library
+libgsasl-static - Static libraries for libgsasl
+libhdf5 - Hierarchical Data Format 5 (HDF5)
+libhdf5-static - Static libraries for libhdf5
+libical - Libical is an Open Source implementation of the iCalendar protocols and protocol data units
+libice - X11 Inter-Client Exchange library
+libice-static - Static libraries for libice
+libiconv - An implementation of iconv()
+libiconv-static - Static libraries for libiconv
+libicu - International Components for Unicode library
+libicu-static - Static libraries for libicu
+libid3tag - MAD ID3 tag manipulation library
+libid3tag-static - Static libraries for libid3tag
+libidn - GNU Libidn library, implementation of IETF IDN specifications
+libidn-static - Static libraries for libidn
+libidn2 - Free software implementation of IDNA2008, Punycode and TR46
+libidn2-static - Static libraries for libidn2
+libimobiledevice - A library to communicate with services on iOS devices using native protocols.
+libimobiledevice-static - Static libraries for libimobiledevice
+libisl - Library for manipulating sets and relations of integer points bounded by linear constraints
+libisl-static - Static libraries for libisl
+libisoburn - Frontend for libraries libburn and libisofs
+libisoburn-static - Static libraries for libisoburn
+libisofs - Library to pack up hard disk files and directories into a ISO 9660 disk image
+libisofs-static - Static libraries for libisofs
+libjansson - C library for encoding, decoding and manipulating JSON data
+libjansson-static - Static libraries for libjansson
+libjasper - Library for manipulating JPEG-2000 files
+libjasper-utils - JPEG-2000 utilities
+libjpeg-turbo - Library for reading and writing JPEG image files
+libjpeg-turbo-progs - Programs for manipulating JPEG files
+libjpeg-turbo-static - Static libraries for libjpeg-turbo
+libksba - Library for using X.509 certificates and CMS (Cryptographic Message Syntax) easily accessible
+libksba-static - Static libraries for libksba
+libllvm - Modular compiler and toolchain technologies library
+libllvm-static - Static libraries for libllvm
+liblmdb - LMDB implements a simplified variant of the BerkeleyDB (BDB) API.
+liblmdb-static - Static libraries for liblmdb
+libltdl - Library for dlopening libraries
+liblua - Shared library for the Lua interpreter
+liblua-static - Static libraries for liblua
+liblua52 - Shared library for the Lua interpreter (v5.2.x)
+libluajit - Just-In-Time Compiler for Lua
+liblz4 - Fast LZ compression algorithm library
+liblz4-static - Static libraries for liblz4
+liblzma - XZ-format compression library
+liblzma-static - Static libraries for liblzma
+liblzo - Portable lossless data compression library
+liblzo-static - Static libraries for liblzo
+libmaa - Provides many low-level data structures which are helpful for writing compilers
+libmaa-static - Static libraries for libmaa
+libmad - MAD is a high-quality MPEG audio decoder
+libmad-static - Static libraries for libmad
+libmatroska - Matroska library
+libmaxminddb - MaxMind GeoIP2 database - library and utilities
+libmaxminddb-static - Static libraries for libmaxminddb
+libmaxminddb-tools - A geoip lookup utility for MaxMind DB
+libmcrypt - A library which provides a uniform interface to several symmetric encryption algorithms
+libmcrypt-static - Static libraries for libmcrypt
+libmediainfo - Library for reading information from media files
+libmediainfo-static - Static libraries for libmediainfo
+libmesode - Minimal XMPP library written for use with Profanity XMPP client
+libmesode-static - Static libraries for libmesode
+libmhash - A thread-safe hash library which provides a uniform interface to hash algorithms
+libmhash-static - Static libraries for libmhash
+libmicrohttpd - A small C library that is supposed to make it easy to run an HTTP server as part of another application
+libmicrohttpd-static - Static libraries for libmicrohttpd
+libmnl - a minimalistic user-space library oriented to Netlink developers
+libmnl-static - Static libraries for libmnl
+libmosquitto - MQTT library
+libmp3lame - High quality MPEG Audio Layer III (MP3) encoder
+libmp3lame-static - Static libraries for libmp3lame
+libmp3splt - Utility to split MP3, Ogg Vorbis and native FLAC files without decoding
+libmp3splt-static - Static libraries for libmp3splt
+libmpc - Library for the arithmetic of complex numbers with arbitrarily high precision
+libmpc-static - Static libraries for libmpc
+libmpdclient - Asynchronous API library for interfacing MPD in the C, C++ & Objective C languages
+libmpfr - C library for multiple-precision floating-point computations with correct rounding
+libmpfr-static - Static libraries for libmpfr
+libmsgpack - MessagePack implementation for C and C++
+libmsgpack-static - Static libraries for libmsgpack
+libnet - A library which provides API for commonly used low-level net functions
+libnet-static - Static libraries for libnet
+libnettle - Cryptographic library that is designed to fit easily in more or less any context
+libnettle-static - Static libraries for libnettle
+libnfs - NFS client library
+libnfs-static - Static libraries for libnfs
+libnftnl - Netfilter library providing interface to the nf_tables subsystem
+libnftnl-static - Static libraries for libnftnl
+libnghttp2 - nghttp HTTP 2.0 library
+libnghttp2-static - Static libraries for libnghttp2
+libnl - Collection of libraries providing APIs to netlink protocol based Linux kernel interfaces
+libnl-static - Static libraries for libnl
+libnotify - Library for sending desktop notifications
+libnpth - New GNU Portable Threads Library
+libnpth-static - Static libraries for libnpth
+libogg - Library for working with the Ogg multimedia container format
+libogg-static - Static libraries for libogg
+liboggz - Command and library to inspect, tweak, edit and validate Ogg files
+liboggz-static - Static libraries for liboggz
+libopenfec - Application-Level Forward Erasure Correction implementation library
+libopus - Reference implementation of the Opus codec
+libopus-static - Static libraries for libopus
+libopusenc - High-level API for encoding .opus files
+libopusenc-static - Static libraries for libopusenc
+libotr - Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing: Encryption, Authentication, Deniability, Perfect forward secrecy
+libotr-static - Static libraries for libotr
+libowfat - GPL reimplementation of libdjb
+libpcap - Library for network traffic capture
+libpcap-static - Static libraries for libpcap
+libpciaccess - X11 PCI access library
+libpciaccess-static - Static libraries for libpciaccess
+libpcreposix - Posix-compatible runtime libraries for libpcre
+libpipeline - C library for manipulating pipelines of subprocesses in a flexible and convenient way
+libpipeline-static - Static libraries for libpipeline
+libpixman - Low-level library for pixel manipulation
+libpixman-static - Static libraries for libpixman
+libplist - A small portable C library to handle Apple Property List files in binary or XML format.
+libplist-static - Static libraries for libplist
+libpng - Official PNG reference library
+libpng-static - Static libraries for libpng
+libpopt - Library for parsing cmdline parameters
+libpopt-static - Static libraries for libpopt
+libprotobuf - Protocol buffers C++ library
+libprotobuf-c - Protocol buffers C library
+libprotobuf-c-static - Static libraries for libprotobuf-c
+libpsl - Public Suffix List library
+libpsl-static - Static libraries for libpsl
+libqrencode - Libqrencode is a fast and compact library for encoding data in a QR Code symbol, a 2D symbology that can be scanned by handy terminals
+libraqm - Raqm is a small library that encapsulates the logic for complex text layout and provides a convenient API.
+libraqm-static - Static libraries for libraqm
+librsvg - Library to render SVG files using cairo
+librsvg-static - Static libraries for librsvg
+librsync - Remote delta-compression library
+libsasl - Cyrus SASL - authentication abstraction library
+libsasl-static - Static libraries for libsasl
+libsearpc - A simple C language RPC framework (mainly for seafile)
+libsearpc-static - Static libraries for libsearpc
+libsignal-protocol-c - Signal Protocol C Library
+libsigsegv - GNU libsigsegv is a library for handling page faults in user mode
+libsigsegv-static - Static libraries for libsigsegv
+libsixel - Encoder/decoder implementation for DEC SIXEL graphics
+libsixel-static - Static libraries for libsixel
+libsm - X11 Session Management library
+libsm-static - Static libraries for libsm
+libsndfile - Library for reading/writing audio files
+libsndfile-static - Static libraries for libsndfile
+libsodium - Network communication, cryptography and signaturing library
+libsodium-static - Static libraries for libsodium
+libsoup - HTTP client and server library
+libsoxr - High quality, one-dimensional sample-rate conversion library
+libsqlite - Library implementing a self-contained and transactional SQL database engine
+libsqlite-static - Static libraries for libsqlite
+libssh - Tiny C SSH library
+libssh2 - Client-side library implementing the SSH2 protocol
+libssh2-static - Static libraries for libssh2
+libtalloc - Hierarchical, reference counted memory pool system with destructors
+libtalloc-static - Static libraries for libtalloc
+libtd - Library for building Telegram clients
+libtd-static - Static libraries for libtd
+libtermkey - Library for processing of keyboard entry for terminal-based programs
+libtheora - An open video codec developed by the Xiph.org
+libtheora-static - Static libraries for libtheora
+libtiff - Support for the Tag Image File Format (TIFF) for storing image data
+libtiff-static - Static libraries for libtiff
+libtiff-utils - Tools for working with tiff files
+libtirpc - Transport Independent RPC library
+libtirpc-static - Static libraries for libtirpc
+libtool - Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface
+libtorrent - Libtorrent BitTorrent library
+libtorrent-static - Static libraries for libtorrent
+libunibilium - Terminfo parsing library
+libunique - Library for writing single instance applications
+libunique-static - Static libraries for libunique
+libunistring - Library providing functions for manipulating Unicode strings
+libunistring-static - Static libraries for libunistring
+libusb - A C library that provides generic access to USB devices
+libusb-static - Static libraries for libusb
+libusbmuxd - A client library for applications to handle usbmux protocol connections with iOS devices.
+libusbmuxd-static - Static libraries for libusbmuxd
+libuuid - Portable uuid C library
+libuuid-static - Static libraries for libuuid
+libuv - Support library with a focus on asynchronous I/O
+libuv-static - Static libraries for libuv
+libvidstab - video stabilization library
+libvorbis - Library for using the Ogg Vorbis compressed audio format
+libvorbis-static - Static libraries for libvorbis
+libvpx - VP8 & VP9 Codec SDK
+libvpx-static - Static libraries for libvpx
+libvte - Virtual Terminal library
+libvterm - Terminal emulator library
+libwebp - Library to encode and decode images in WebP format
+libwebp-static - Static libraries for libwebp
+libwebsockets - Lightweight C websockets library
+libwnck - Window Navigator Construction Kit
+libwren - Small, fast, class-based concurrent scripting language libraries
+libx11 - X11 client-side library
+libx11-static - Static libraries for libx11
+libx264 - Library for encoding video streams into the H.264/MPEG-4 AVC format
+libx264-static - Static libraries for libx264
+libx265 - H.265/HEVC video stream encoder library
+libx265-static - Static libraries for libx265
+libxapian - Xapian search engine library
+libxapian-static - Static libraries for libxapian
+libxau - X11 authorisation library
+libxau-static - Static libraries for libxau
+libxaw - X11 Athena Widget library
+libxaw-static - Static libraries for libxaw
+libxcb - X11 client-side library
+libxcb-static - Static libraries for libxcb
+libxcomposite - X11 Composite extension library
+libxcomposite-static - Static libraries for libxcomposite
+libxcursor - X cursor management library
+libxcursor-static - Static libraries for libxcursor
+libxdamage - X11 damaged region extension library
+libxdamage-static - Static libraries for libxdamage
+libxdmcp - X11 Display Manager Control Protocol library
+libxdmcp-static - Static libraries for libxdmcp
+libxext - X11 miscellaneous extensions library
+libxext-static - Static libraries for libxext
+libxfce4ui - Commonly used XFCE widgets among XFCE applications
+libxfce4ui-static - Static libraries for libxfce4ui
+libxfce4util - Basic utility non-GUI functions for XFCE
+libxfce4util-static - Static libraries for libxfce4util
+libxfixes - X11 miscellaneous 'fixes' extension library
+libxfixes-static - Static libraries for libxfixes
+libxfont2 - X11 font rasterisation library
+libxfont2-static - Static libraries for libxfont2
+libxft - FreeType-based font drawing library for X
+libxft-static - Static libraries for libxft
+libxi - X11 Input extension library
+libxi-static - Static libraries for libxi
+libxinerama - X11 Xinerama extension library
+libxinerama-static - Static libraries for libxinerama
+libxkbcommon - Keymap handling library for toolkits and window systems
+libxkbfile - X11 keyboard file manipulation library
+libxkbfile-static - Static libraries for libxkbfile
+libxklavier - High-level API for X Keyboard Extension
+libxklavier-static - Static libraries for libxklavier
+libxml2 - Library for parsing XML documents
+libxml2-static - Static libraries for libxml2
+libxml2-utils - XML utilities
+libxmu - X11 miscellaneous micro-utility library
+libxmu-static - Static libraries for libxmu
+libxpm - X11 pixmap library
+libxpm-static - Static libraries for libxpm
+libxrandr - X11 RandR extension library
+libxrandr-static - Static libraries for libxrandr
+libxrender - X Rendering Extension client library
+libxrender-static - Static libraries for libxrender
+libxshmfence - A library that exposes a event API on top of Linux futexes
+libxshmfence-static - Static libraries for libxshmfence
+libxslt - XSLT processing library
+libxslt-static - Static libraries for libxslt
+libxss - X11 Screen Saver extension library
+libxss-static - Static libraries for libxss
+libxt - X11 toolkit intrinsics library
+libxt-static - Static libraries for libxt
+libxtst - X11 Testing -- Resource extension library
+libxtst-static - Static libraries for libxtst
+libxxf86dga - X11 Direct Graphics Access extension library
+libxxf86dga-static - Static libraries for libxxf86dga
+libxxf86vm - X11 XFree86 video mode extension library
+libxxf86vm-static - Static libraries for libxxf86vm
+libyaml - LibYAML is a YAML 1.1 parser and emitter written in C
+libyaml-static - Static libraries for libyaml
+libzen - ZenLib C++ utility library
+libzen-static - Static libraries for libzen
+libzim - The ZIM library is the reference implementation for the ZIM file format.
+libzip - Library for reading, creating, and modifying zip archives
+libzmq - Fast messaging system built on sockets. C and C++ bindings. aka 0MQ, ZMQ.
+libzmq-static - Static libraries for libzmq
+libzopfli - New zlib compatible compressor library
+lighttpd - Fast webserver with minimal memory footprint
+lighttpd-static - Static libraries for lighttpd
+links - Links is a text and graphics mode WWW browser
+linux-man-pages - Man pages for linux kernel and C library interfaces
+littlecms - Color management library
+littlecms-static - Static libraries for littlecms
+littlecms-utils - Color management utilities
+llbuild - A low-level build system, used by the Swift Package Manager
+lld - LLVM-based linker
+lldb - LLVM based debugger
+llvm - Modular compiler and toolchain technologies executables
+lnd - Lightning Network Daemon
+loksh - A Linux port of OpenBSD's ksh
+lolcat - A Command Line Tool to Output Rainbow Of Colors in Linux Terminal. This version is High-performance implementation of https://github.com/busyloop/lolcat
+loqui - IRC client for the Gtk+-2.0 environment
+lsof - Lists open files for running Unix processes
+ltrace - Tracks runtime library calls in dynamically linked programs
+lua - Simple, extensible, embeddable programming language
+lua-lpeg - Pattern-matching library for Lua 5.3
+lua52 - Simple, extensible, embeddable programming language
+luajit - Just-In-Time compiler for Lua - command line tool
+luarocks - Deployment and management system for Lua modules
+luv - Bare libuv bindings for lua
+lxde-icon-theme - LXDE default icon theme based on nuoveXT2
+lxmenu-data - Freedesktop.org desktop menus for LXDE
+lynx - The text web browser
+lz4 - Fast LZ compression algorithm tool
+lzip - Lossless data compressor similar to gzip and bzip2
+lzlib - A library providing in-memory LZMA compression and decompression functions
+lzlib-static - Static libraries for lzlib
+lzop - File compressor using lzo lib.
+m4 - Traditional Unix macro processor
+make - Tool to control the generation of non-source files from source files
+man - Man page viewer from the mandoc toolset
+mapserver - MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web
+mariadb - A drop-in replacement for mysql server
+mariadb-static - Static libraries for mariadb
+matchbox-keyboard - An on-screen virtual keyboard.
+mathomatic - Simple CAS and symbolic calculator
+mbedtls - Light-weight cryptographic and SSL/TLS library
+mc - Midnight Commander - a powerful file manager
+mdns-scan - A tool for scanning for mDNS/DNS-SD services published on the local network
+mdp - Command-line based markdown presentation tool
+mediainfo - Command-line utility for reading information from media files
+megatools - Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage
+memcached - Free & open source, high-performance, distributed memory object caching system
+menu-cache - Caching mechanism for freedesktop.org compliant menus
+menu-cache-static - Static libraries for menu-cache
+mesa - An open-source implementation of the OpenGL specification
+metasploit - Advanced open-source platform for developing, testing and using exploit code. (installer)
+mg - microscopic GNU Emacs-style editor
+micro - Modern and intuitive terminal-based text editor
+mime-support - MIME type associations for file types
+minicom - Friendly menu driven serial communication program
+miniupnpc - Small UPnP client library and tool to access Internet Gateway Devices
+miniupnpc-static - Static libraries for miniupnpc
+mkbootimg - mkbootimg + unpackbootimg, forked and updated
+mksh - The MirBSD Korn Shell - an enhanced version of the public domain ksh
+mktorrent - command line utility to create BitTorrent metainfo files
+mkvtoolnix - Set of tools to create, edit and inspect Matroska files
+mlocate - Tool to find files anywhere in the filesystem based on their name
+moon-buggy - Simple game where you drive a car across the moon's surface
+moreutils - A growing collection of the unix tools that nobody thought to write thirty years ago
+moria - Rogue-like game with an infinite dungeon
+morse2ascii - A tool to decode the morse codes from a PCM WAV file as well as from text and RAW PCM files
+mosh - Mobile shell that supports roaming and intelligent local echo
+mosquitto - MQTT version 3.1/3.1.1 compatible message broker and clients
+most - A terminal pager similar to 'more' and 'less'
+mp3splt - Utility to split mp3, ogg vorbis and FLAC files without decoding
+mpc - Minimalist command line interface for MPD
+mpd - Music player daemon
+mpdscribble - A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler
+mpv - Command-line media player
+mpv-x - Command-line media player
+msmtp - Lightweight SMTP client
+mtd-utils - Utilities for dealing with MTD devices
+mtdev - A stand-alone library which transforms all variants of kernel MT events to the slotted type B protocol
+mtdev-static - Static libraries for mtdev
+mtools - Tool for manipulating FAT images.
+mtpaint - Simple paint program for creating icons and pixel based artwork
+mu - Maildir indexer/searcher and Emacs client (mu4e)
+muchsync - Synchronize notmuch mail across machines
+multitail - Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge
+mupdf - Lightweight PDF and XPS viewer (library)
+mupdf-static - Static libraries for mupdf
+mupdf-tools - Lightweight PDF and XPS viewer (utilities)
+music-file-organizer - Organizer of audio files into directories based on metadata tags
+mutt - Mail client with patches from neomutt
+myman - Video game for color and monochrome text terminals in the genre of Namco's Pac-Man
+myrepos - Tool to manage all your version control repos
+nano - Small, free and friendly text editor
+natpmpc - Portable and fully compliant implementation of NAT-PMP
+natpmpc-static - Static libraries for natpmpc
+ncdc - Modern and lightweight direct connect client with a friendly ncurses interface
+ncdu - Disk usage analyzer
+ncmpcpp - NCurses Music Player Client (Plus Plus)
+ncompress - The classic unix compression utility which can handle the ancient .Z archive
+ncurses - Library for text-based user interfaces in a terminal-independent manner
+ncurses-static - Static libraries for ncurses
+ncurses-ui-libs - Libraries for terminal user interfaces based on ncurses
+ncurses-ui-libs-static - Static libraries for terminal user interfaces based on ncurses
+ncurses-utils - Tools for working with terminals
+ndk-multilib - Multilib binaries for cross-compilation
+ndk-sysroot - System header and library files from the Android NDK needed for compiling C programs
+ne - Easy-to-use and powerful text editor
+neofetch - Simple system information script
+neovim - Ambitious Vim-fork focused on extensibility and agility (nvim)
+net-tools - Configuration tools for Linux networking
+netcat - Feature-packed networking utility which reads and writes data across networks from the command line
+netcdf-c - NetCDF is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data
+netcdf-c-static - Static libraries for netcdf-c
+nethack - Dungeon crawl game
+netpbm - Toolkit for manipulation of graphic images of different formats
+netsed - Alter the contents of packets forwarded through network in real time
+netsurf - NetSurf is a free, open source web browser
+nettle - Low level cryptographic tools
+newsboat - RSS/Atom feed reader for the text console
+nginx - Lightweight HTTP server
+nim - Nim programming language compiler
+ninja - A small build system with a focus on speed
+ninvaders - Space Invaders clone based on ncurses for ASCII output
+nmap - Utility for network discovery and security auditing
+nmh - Powerful electronic mail handling system
+nnn - Free, fast, friendly file browser
+nodejs - Platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications
+nodejs-lts - Platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications
+notmuch - Thread-based email index, search and tagging system
+nsnake - The classic snake game with textual interface
+nudoku - ncurses based sudoku game
+nushell - A new type of shell operating on structured data
+nyancat - Nyancat in your terminal, rendered through ANSI escape sequences.
+nzbget - The most efficient usenet downloader
+o-editor - Small, fast and limited text editor
+oathtool - One-time password components
+oathtool-static - Static libraries for oathtool
+obconf - A configuration tool for the Openbox window manager
+obfs4proxy - A pluggable transport plugin for Tor
+ocrad - Optical Character Recognition program based on a feature extraction method
+ocrad-static - Static libraries for ocrad
+odt2txt - Simple converter from OpenDocument Text to plain text
+okc-agents - OpenKeychain agents for GnuPG and OpenSSH
+oleo - The GNU Spreadsheet
+oniguruma - Regular expressions library
+oniguruma-static - Static libraries for oniguruma
+open-adventure - Forward-port of the original Colossal Cave Adventure from 1976-77 which was the origin of all later text adventures, dungeon-crawl (computer) games, and computer-hosted roleplaying games
+openal-soft - Software implementation of the OpenAL API
+openbabel - Open Babel is a chemical toolbox designed to speak the many languages of chemical data
+openbox - Highly configurable and lightweight X11 window manager
+openbox-static - Static libraries for openbox
+openfoam - OpenFOAM is a CFD software written in C++
+openjpeg - JPEG 2000 image compression library
+openjpeg-tools - Command-line tools using the JPEG 2000 library
+openldap - OpenLDAP server
+openldap-static - Static libraries for openldap
+openmpi - Open source Message Passing Interface implementation
+openmpi-static - Static libraries for openmpi
+openscad - The programmers solid 3D CAD modeller (headless build)
+openssh - Secure shell for logging into a remote machine
+openssl - Library implementing the SSL and TLS protocols as well as general purpose cryptography functions
+openssl-static - Static libraries for openssl
+openssl-tool - The openssl command line cryptographic tool
+openttd - An engine for running Transport Tycoon Deluxe
+openttd-gfx - A free graphics set for openttd
+openttd-msx - Free music set for openttd
+openttd-sfx - Free sound set for openttd
+optipng - PNG optimizer that recompresses image files to a smaller size, without losing any information
+opus-tools - Utilities to encode and decode .opus files
+opusfile - A high-level API for decoding and seeking within .opus files
+opusfile-static - Static libraries for opusfile
+osmctools - Simple tools for OpenStreetMap processing
+ossp-uuid - ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122.
+ossp-uuid-static - Static libraries for ossp-uuid
+ovmf - Open Virtual Machine Firmware
+p7zip - Command-line version of the 7zip compressed file archiver
+pacman4console - A 9 level ncurses pacman game with editor
+pandoc - Universal markup converter
+pango - Library for laying out and rendering text
+paperkey - Archive OpenPGP keys on paper
+par2 - par2cmdline is a PAR 2.0 compatible file verification and repair tool.
+parallel - GNU Parallel is a shell tool for executing jobs in parallel using one or more machines
+parted - Versatile partition editor
+parted-static - Static libraries for parted
+pass - Lightweight directory-based password manager
+pass-otp - A pass extension for managing one-time-password (OTP) tokens
+pastebinit - Command-line pastebin client
+patch - GNU patch which applies diff files to create patched files
+patchelf - Utility to modify the dynamic linker and RPATH of ELF executables
+pathpicker - Facebook PathPicker - a terminal-based file picker
+pcaudiolib - Portable C Audio Library
+pcaudiolib-static - Static libraries for pcaudiolib
+pcmanfm - Extremely fast and lightweight file manager
+pcre - Library implementing regular expression pattern matching using the same syntax and semantics as Perl 5
+pcre-static - Static libraries for pcre
+pcre2 - Perl 5 compatible regular expression library
+pcre2-static - Static libraries for pcre2
+pdf2svg - A PDF to SVG converter
+pdfgrep - Command line utility to search text in PDF files
+perl - Capable, feature-rich programming language
+pforth - Portable Forth in C
+php - Server-side, HTML-embedded scripting language
+php-apache - Apache 2.0 Handler module for PHP
+php-fpm - FastCGI Process Manager for PHP
+php-pgsql - PostgreSQL modules for PHP
+pianobar - pianobar is a free/open-source, console-based client for the personalized online radio Pandora.
+pick - Utility to choose one option from a set of choices with fuzzy search functionality
+picolisp - Lisp interpreter and application server framework
+pidgin - Multi-protocol instant messaging client
+pidgin-static - Static libraries for pidgin
+pigz - Parallel implementation of the gzip file compressor
+pinentry - Dialog allowing secure password entry
+pinentry-gtk - Dialog allowing secure password entry (with gtk2 support)
+pkg-config - Helper tool used when compiling applications and libraries
+play-audio - Simple command line audio player for Android
+plotutils - Set of utilities and libraries for plotting.
+plotutils-static - Static libraries for plotutils
+plzip - A massively parallel lossless data compressor based on the lzlib compression library
+pngquant - PNG image optimising utility
+polipo - A small and fast caching web proxy
+polybar - A fast and easy-to-use status bar
+poppler - PDF rendering library
+postgresql - Object-relational SQL database
+postgresql-static - Static libraries for postgresql
+potrace - Tool for transforming a bitmap into a smooth, scalable image
+privoxy - Non-caching web proxy with advanced filtering capabilities
+procps - Utilities that give information about processes using the /proc filesystem
+procps-static - Static libraries for procps
+profanity - Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi
+progress - Linux tool to show progress for cp, mv, dd and more
+proj - Generic coordinate transformation software
+proot - Emulate chroot, bind mount and binfmt_misc for non-root users
+proot-distro - Termux official utility for managing proot'ed Linux distributions
+protobuf - Compiler for protocol buffer definition files
+proxmark3 - The Swiss Army Knife of RFID Research - RRG/Iceman repo
+proxychains-ng - A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies
+psmisc - Some small useful utilities that use the proc filesystem
+psutils - A set of postscript utilities
+pulseaudio - A featureful, general-purpose sound server
+pulseaudio-static - Static libraries for pulseaudio
+pup - command line tool for processing HTML
+pure-ftpd - Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server
+putty - A terminal integrated SSH/Telnet client
+pv - Terminal-based tool for monitoring the progress of data through a pipeline
+pwgen - Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords
+pypanel - A lightweight panel/taskbar for X11 window managers written in python.
+python - Python 3 programming language intended to enable clear programs
+python-static - Static libraries for python
+python-tkinter - Tkinter support for Python 3
+python2 - Python 2 programming language intended to enable clear programs
+python2-six - Python 2 and 3 compatibility utilities
+python2-static - Static libraries for python2
+python2-xlib - A fully functional X client library for Python programs
+qalc - Powerful and easy to use command line calculator
+qalc-static - Static libraries for qalc
+qemu-common - A set common files used by the QEMU emulators
+qemu-system-aarch64 - A generic and open source machine emulator and virtualizer
+qemu-system-aarch64-headless - A generic and open source machine emulator and virtualizer (headless)
+qemu-system-arm - A generic and open source machine emulator and virtualizer
+qemu-system-arm-headless - A generic and open source machine emulator and virtualizer (headless)
+qemu-system-i386 - A generic and open source machine emulator and virtualizer
+qemu-system-i386-headless - A generic and open source machine emulator and virtualizer (headless)
+qemu-system-riscv32 - A generic and open source machine emulator and virtualizer
+qemu-system-riscv32-headless - A generic and open source machine emulator and virtualizer (headless)
+qemu-system-riscv64 - A generic and open source machine emulator and virtualizer
+qemu-system-riscv64-headless - A generic and open source machine emulator and virtualizer (headless)
+qemu-system-x86_64 - A generic and open source machine emulator and virtualizer
+qemu-system-x86_64-headless - A generic and open source machine emulator and virtualizer (headless)
+qemu-user-aarch64 - QEMU Linux user mode emulator
+qemu-user-arm - QEMU Linux user mode emulator
+qemu-user-i386 - QEMU Linux user mode emulator
+qemu-user-riscv32 - QEMU Linux user mode emulator
+qemu-user-riscv64 - QEMU Linux user mode emulator
+qemu-user-x86_64 - QEMU Linux user mode emulator
+qemu-utils - A set of utilities for working with the QEMU emulators
+qgit - A git GUI viewer
+qpdf - Content-Preserving PDF Transformation System
+qpdf-static - Static libraries for qpdf
+qt5-base - A cross-platform application and UI framework
+qt5-declarative - Classes for QML and JavaScript languages
+qt5-tools - Qt development tools (incomplete !)
+qt5-x11extras - Qt platform-specific APIs for X11
+quickjs - QuickJS is a small and embeddable Javascript engine
+quickjs-static - Static libraries for quickjs
+racket - Full-spectrum programming language going beyond Lisp and Scheme
+racket-static - Static libraries for racket
+radare2 - Advanced Hexadecimal Editor
+radare2-static - Static libraries for radare2
+ragel - Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code
+ranger - File manager with VI key bindings
+rapidjson - fast JSON parser/generator for C++ with SAX/DOM style API
+rclone - rsync for cloud storage
+rcm - Dotfiles management
+rcs - The GNU Revision Control System
+rcshell - An alternative implementation of the plan 9 rc shell
+rdiff - Remote incremental backup
+rdiff-backup - A utility for local/remote mirroring and incremental backups
+readline - Library that allow users to edit command lines as they are typed in
+readline-static - Static libraries for readline
+recordmydesktop - Produces a OGG encapsulated Theora/Vorbis recording of your desktop
+recutils - GNU Recutils is a set of tools and libraries to access human-editable, plain text databases called recfiles
+recutils-static - Static libraries for recutils
+redir - TCP port redirector for UNIX
+redis - In-memory data structure store used as a database, cache and message broker
+remind - Sophisticated calendar and alarm program
+renameutils - A set of programs designed to make renaming of files faster and less cumbersome
+repo - Repo is a tool built on top of Git. Repo helps manage many Git repositories, does the uploads to revision control systems, and automates parts of the development workflow.
+resolv-conf - Resolver configuration file
+restic - Fast, secure, efficient backup program
+restic-server - Restic's REST backend API server
+rgbds - Rednex Game Boy Development System
+rhash - Console utility for calculation and verification of magnet links and a wide range of hash sums
+rhash-static - Static libraries for rhash
+rinetd - A user-mode TCP port redirection server
+ripgrep - Search tool like grep and The Silver Searcher
+rlwrap - Wrapper using readline to enable editing of keyboard input for commands
+roc - Roc real-time streaming over the network
+rofi - A window switcher, application launcher and dmenu replacement
+root-repo - Package repository containing programs for rooted devices
+rsnapshot - A remote filesystem snapshot utility
+rsync - Utility that provides fast incremental file transfer
+rtmpdump - Small dumper for media content streamed over the RTMP protocol
+rtmpdump-static - Static libraries for rtmpdump
+rtorrent - Ncurses BitTorrent client based on libTorrent
+ruby - Dynamic programming language with a focus on simplicity and productivity
+ruby-ri - Ruby documentation index
+runit - Tools to provide service supervision and to manage services
+rush - A cross-platform command-line tool for executing jobs in parallel
+rust - Systems programming language focused on safety, speed and concurrency
+rust-nightly-wasm32-unknown-unknown - rust std for wasm32-unknown-unknown target
+rust-rls-nightly - server that provides IDEs, editors, and other tools with information about Rust programs
+rust-src-nightly - rust src
+rust-std-wasm32 - rust std for wasm32-unknown-unknown target
+rustc-dev - developer compiler libs
+rustc-dev-nightly - developer compiler libs
+rustc-nightly - Rust compiler and utilities (nightly version)
+rustfmt-nightly - A tool for formatting Rust code according to style guidelines
+samba - SMB/CIFS fileserver
+samefile - Finds files with identical contents, independent of file name
+sc - A vi-like spreadsheet calculator
+sc-im - An improved version of sc, a spreadsheet calculator
+science-repo - Package repository containing science software
+screen - Terminal multiplexer with VT100/ANSI terminal emulation
+screenfetch - Bash Screenshot Information Tool
+scrub - Iteratively writes patterns on files or disk devices to make retreiving the data more difficult
+scrypt - scrypt KDF library and file encryption tool
+sdat2img - Convert sparse Android data image to filesystem ext4 image
+sdcv - StarDict Console Version
+sdl - A library for portable low-level access to a video framebuffer, audio output, mouse, and keyboard
+sdl-image - A simple library to load images of various formats as SDL surfaces
+sdl-image-static - Static libraries for sdl-image
+sdl-mixer - A simple multi-channel audio mixer
+sdl-mixer-static - Static libraries for sdl-mixer
+sdl-net - A small sample cross-platform networking library
+sdl-net-static - Static libraries for sdl-net
+sdl-static - Static libraries for sdl
+sdl2 - A library for portable low-level access to a video framebuffer, audio output, mouse, and keyboard (version 2)
+sdl2-image - A simple library to load images of various formats as SDL surfaces (version 2)
+sdl2-image-static - Static libraries for sdl2-image
+sdl2-mixer - A simple multi-channel audio mixer
+sdl2-mixer-static - Static libraries for sdl2-mixer
+sdl2-static - Static libraries for sdl2
+sdl2-ttf - A library that allows you to use TrueType fonts in your SDL applications (version 2)
+sdl2-ttf-static - Static libraries for sdl2-ttf
+seafile-client - Seafile is a file syncing and sharing software with file encryption and group sharing
+seafile-client-static - Static libraries for seafile-client
+seccure - SECCURE Elliptic Curve Crypto Utility for Reliable Encryption
+secure-delete - Secure file, disk, swap, memory erasure utilities
+sed - GNU stream editor for filtering/transforming text
+sensible-utils - Small utilities used by programs to sensibly select and spawn an appropriate browser, editor, or pager
+serf - High performance C-based HTTP client library
+serf-static - Static libraries for serf
+shared-mime-info - Freedesktop.org Shared MIME Info
+sharutils - Utilities for packaging and unpackaging shell archives
+shc - Shell script compiler
+shell2http - Executing shell commands via HTTP server
+shellharden - The corrective bash syntax highlighter
+shellinabox - Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator
+shfmt - A shell parser and formatter
+shtool - compilation of small but very stable and portable shell scripts into a single shell tool
+silversearcher-ag - Fast grep-like program, alternative to ack-grep
+sl - Tool curing your bad habit of mistyping
+slang - S-Lang is a powerful interpreted language
+sleuthkit - The Sleuth Kit® (TSK) is a library for digital forensics tools.
+sleuthkit-static - Static libraries for sleuthkit
+smalltalk - A free implementation of the Smalltalk-80 language
+smalltalk-static - Static libraries for smalltalk
+socat - Relay for bidirectional data transfer between two independent data channels
+solidity - An Ethereum smart contract-oriented language.
+sox - Command line utility for converting between and applying effects to various audio files formats
+sox-static - Static libraries for sox
+speexdsp - Speex audio processing library
+speexdsp-static - Static libraries for speexdsp
+spiped - a utility for creating symmetrically encrypted and authenticated pipes between socket addresses
+sqlcipher - SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files
+sqlcipher-static - Static libraries for sqlcipher
+sqlite - Command line shell for SQLite
+sqlmap - Automatic SQL injection and database takeover tool
+squid - Full-featured Web proxy cache server
+srelay - A Free SOCKS proxy server
+sshpass - Noninteractive ssh password provider
+ssss - Simple command-line implementation of Shamir's Secret Sharing Scheme
+st - A simple virtual terminal emulator for X
+stag - Streaming bar graphs. For stats and stuff.
+starship - A minimal, blazing fast, and extremely customizable prompt for any shell
+startup-notification - Utility libraries for XC Binding
+startup-notification-static - Static libraries for startup-notification
+stdman - Formatted C++20 stdlib man pages (cppreference)
+steghide - Embeds a message in a file by replacing some of the least significant bits
+stfl - Structured Terminal Forms Language/Library
+stfl-static - Static libraries for stfl
+stow - Tool for managing the installation of multiple software packages into a single directory
+strace - Debugging utility to monitor system calls and signals received
+streamripper - Records and splits streaming mp3 into tracks
+stunnel - Socket wrapper which can provide TLS support to ordinary applications
+stunnel-static - Static libraries for stunnel
+subversion - Centralized version control system characterized by its simplicity
+subversion-static - Static libraries for subversion
+surfraw - Shell Users' Revolutionary Front Rage Against the Web
+swaks - Swiss Army Knife for SMTP
+swi-prolog - Most popular and complete prolog implementation
+swift - Swift is a high-performance system programming language
+swig - Generate scripting interfaces to C/C++ code
+syncthing - Decentralized file synchronization
+ta-lib - Technical analysis library with indicators like ADX.
+ta-lib-static - Static libraries for ta-lib
+taglib - A Library for reading and editing the meta-data of several popular audio formats.
+tar - GNU tar for manipulating tar archives
+task-spooler - Task spooler is a Unix batch system where the tasks spooled run one after the other
+tasksh - Shell command wrapping Taskwarrior commands
+taskwarrior - Utility for managing your TODO list
+tcc - Tiny C Compiler
+tcl - Powerful but easy to learn dynamic programming language
+tcsh - TENEX C Shell, an enhanced version of Berkeley csh
+teckit - TECkit is a library for encoding conversion
+teckit-static - Static libraries for teckit
+telegram-cli - Telegram messenger CLI
+telepathy-glib - GLib bindings for the Telepathy D-Bus protocol
+telepathy-glib-static - Static libraries for telepathy-glib
+tergent - An ssh-agent implementation for Termux that uses Android Keystore as its backend
+termimage - Terminal image viewer
+termux-am - Android Oreo-compatible am command reimplementation
+termux-api - Termux API commands (install also the Termux:API app)
+termux-apt-repo - Script to create Termux apt repositories
+termux-auth - Password authentication library and utility for Termux
+termux-create-package - Utility to create Termux packages
+termux-elf-cleaner - Cleaner of ELF files for Android
+termux-exec - An execve() wrapper to make /bin and /usr/bin shebangs work
+termux-keyring - GPG public keys for the official Termux repositories
+termux-licenses - Contains LICENSE files for common licenses
+termux-services - Service daemon for Termux
+termux-tools - Basic system tools for Termux
+teseq - Tool for analyzing control characters and terminal control sequences
+tesseract - Tesseract is probably the most accurate open source OCR engine available
+tesseract-static - Static libraries for tesseract
+texinfo - Documentation system for on-line information and printed output
+texlive - TeX Live is a distribution of the TeX typesetting system.
+texlive-alegreya - Texlive's alegreya package
+texlive-antt - Texlive's antt package
+texlive-bibtexextra - Texlive's collection-bibtexextra
+texlive-bin - TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.
+texlive-bin-static - Static libraries for texlive-bin
+texlive-binextra - Texlive's collection-binextra
+texlive-cm-unicode - Texlive's cm-unicode package
+texlive-context - Texlive's collection-context
+texlive-cormorantgaramond - Texlive's cormorantgaramond package
+texlive-dejavu - Texlive's dejavu package
+texlive-drm - Texlive's drm package
+texlive-ebgaramond - Texlive's ebgaramond package
+texlive-fira - Texlive's fira package
+texlive-fontsextra - Texlive's collection-fontsextra
+texlive-fontsrecommended - Texlive's collection-fontsrecommended
+texlive-fontutils - Texlive's collection-fontutils
+texlive-formatsextra - Texlive's collection-formatsextra
+texlive-full - Texlive-full, meta package that depends on all texlive-collections
+texlive-games - Texlive's collection-games
+texlive-humanities - Texlive's collection-humanities
+texlive-installer - Wrapper around texlive's install-tl script
+texlive-ipaex-type1 - Texlive's ipaex-type1 package
+texlive-langarabic - Texlive's collection-langarabic
+texlive-langchinese - Texlive's collection-langchinese
+texlive-langcjk - Texlive's collection-langcjk
+texlive-langcyrillic - Texlive's collection-langcyrillic
+texlive-langczechslovak - Texlive's collection-langczechslovak
+texlive-langenglish - Texlive's collection-langenglish
+texlive-langeuropean - Texlive's collection-langeuropean
+texlive-langfrench - Texlive's collection-langfrench
+texlive-langgerman - Texlive's collection-langgerman
+texlive-langgreek - Texlive's collection-langgreek
+texlive-langitalian - Texlive's collection-langitalian
+texlive-langjapanese - Texlive's collection-langjapanese
+texlive-langkorean - Texlive's collection-langkorean
+texlive-langother - Texlive's collection-langother
+texlive-langpolish - Texlive's collection-langpolish
+texlive-langportuguese - Texlive's collection-langportuguese
+texlive-langspanish - Texlive's collection-langspanish
+texlive-latexextra - Texlive's collection-latexextra
+texlive-latexrecommended - Texlive's collection-latexrecommended
+texlive-lato - Texlive's lato package
+texlive-libertine - Texlive's libertine package
+texlive-libertinus-type1 - Texlive's libertinus-type1 package
+texlive-luatex - Texlive's collection-luatex
+texlive-mathscience - Texlive's collection-mathscience
+texlive-metapost - Texlive's collection-metapost
+texlive-montserrat - Texlive's montserrat package
+texlive-mpfonts - Texlive's mpfonts package
+texlive-music - Texlive's collection-music
+texlive-noto - Texlive's noto package
+texlive-paratype - Texlive's paratype package
+texlive-pictures - Texlive's collection-pictures
+texlive-plaingeneric - Texlive's collection-plaingeneric
+texlive-plex - Texlive's plex package
+texlive-poltawski - Texlive's poltawski package
+texlive-pstricks - Texlive's collection-pstricks
+texlive-publishers - Texlive's collection-publishers
+texlive-roboto - Texlive's roboto package
+texlive-stickstoo - Texlive's stickstoo package
+texlive-xetex - Texlive's collection-xetex
+the-powder-toy - The Powder Toy is a free physics sandbox game
+thunar - Modern file manager for XFCE environment
+thunar-static - Static libraries for thunar
+tidy - A tool to tidy down your HTML code to a clean style
+tidy-static - Static libraries for tidy
+tig - Ncurses-based text-mode interface for git
+tigervnc - Suite of VNC servers. Based on the VNC 4 branch of TightVNC.
+tigervnc-viewer - A VNC viewer from TigerVNC package
+timewarrior - Command-line time tracker
+tin-summer - Find build artifacts that are taking up disk space
+tintin++ - Classic text-based MUD client
+tinyfugue - Flexible, screen-oriented MUD client, for use with any type of MUD
+tinyproxy - Light-weight HTTP proxy daemon for POSIX operating systems
+tinyscheme - Very small scheme implementation
+tk - A windowing toolkit for use with tcl
+tmate - Terminal multiplexer with instant terminal sharing
+tmux - Terminal multiplexer
+toilet - FIGlet-compatible display of large colourful characters in text mode
+tokei - A blazingly fast CLOC (Count Lines Of Code) program
+tor - The Onion Router anonymizing overlay network
+torsocks - Wrapper to safely torify applications
+toxic - A command line client for Tox
+tracepath - Tool to trace the network path to a remote host
+translate-shell - Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
+transmission - Easy, lean and powerful BitTorrent client
+transmission-gtk - Easy, lean and powerful BitTorrent client (gtk3)
+tree - Recursive directory lister producing a depth indented listing of files
+tsocks - transparent network access through a SOCKS 4 or 5 proxy
+tsu - A su wrapper for Termux
+ttf-dejavu - Font family based on the Bitstream Vera Fonts with a wider range of characters
+tty-clock - Simple terminal clock
+tty-solitaire - Klondike solitaire game
+ttyd - Command-line tool for sharing terminal over the web
+ttyrec - Terminal recorder and player
+tweego - A free command line compiler for Twine/Twee story formats
+uftrace - Function (graph) tracer for user-space
+uget - GTK+ download manager featuring download classification and HTML import
+unicorn - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
+unicorn-static - Static libraries for unicorn
+unifdef - Remove #ifdef'ed lines
+units - Converts between different systems of units
+unrar - Tool for extracting files from .rar archives
+unshield - Tool and library to extract CAB files from InstallShield installers
+unstable-repo - Package repository containing new/unstable programs and libraries.
+unzip - Tools for working with zip files
+usbmuxd - A socket daemon to multiplex connections from and to iOS devices.
+utf8cpp - UTF8-CPP: UTF-8 with C++ in a Portable Way
+utf8proc - Library for processing UTF-8 Unicode data
+utf8proc-static - Static libraries for utf8proc
+utfdecode - Tool for decoding, encoding and debugging unicode
+util-linux - Miscellaneous system utilities
+util-linux-static - Static libraries for util-linux
+valac - C# like language for the GObject system
+valac-static - Static libraries for valac
+valadoc - API documentation generator for vala
+valgrind - Instrumentation framework for building dynamic analysis tools
+valgrind-static - Static libraries for valgrind
+vcsh - Config manager based on Git
+vdexextractor - Tool to decompile and extract Android Dex bytecode from Vdex files
+vegeta - HTTP load testing tool
+vifm - File manager with vi like keybindings
+vim - Vi IMproved - enhanced vi editor
+vim-gtk - Vi IMproved - enhanced vi editor
+vim-python - Vi IMproved - enhanced vi editor - with python support
+vim-runtime - Vi IMproved - Runtime files
+virustotal-cli - Command line interface for VirusTotal
+vis - Modern, legacy free, simple yet efficient vim-like editor
+vitetris - Virtual terminal *tris clone
+vlang - Simple, fast, safe, compiled language for developing maintainable software
+vorbis-tools - Ogg Vorbis tools
+vttest - Program for testing the VT100 compatibility of terminal emulators
+vtutils - Utilities for testing and working with virtual terminals
+w3m - Text based Web browser and pager
+wcalc - Capable calculator
+weechat - Fast, light and extensible IRC chat client
+weechat-lua-plugin - WeeChat Lua Plugin
+weechat-perl-plugin - WeeChat Perl Plugin
+weechat-python-plugin - WeeChat Python3 Plugin
+weechat-ruby-plugin - WeeChat Ruby Plugin
+wget - Commandline tool for retrieving files using HTTP, HTTPS and FTP
+wireguard-tools - Tools for the WireGuard secure network tunnel
+wireshark-gtk - Network protocol analyzer
+wireshark-gtk-static - Static libraries for wireshark-gtk
+wol - Program implementing Wake On LAN functionality
+wordgrinder - A Unicode-aware character cell word processor
+wren - Small, fast, class-based concurrent scripting language interpreter
+wrk - Modern HTTP benchmarking tool
+wuzz - Interactive command line tool for HTTP inspection
+x11-repo - Package repository containing X11 programs and libraries
+x264 - Commandline video encoder for the H.264/MPEG-4 AVC format
+x265 - H.265/HEVC video stream encoder tool
+x2x - Allows the keyboard, mouse on one X display to be used to control another X display
+xapian-tools - Basic tools for the Xapian search engine
+xarchiver - GTK+ frontend to various command line archivers
+xbitmaps - X.org Bitmap files
+xcb-proto - XML-XCB protocol descriptions
+xcb-util - Utility libraries for XC Binding
+xcb-util-cursor - XCB cursor library
+xcb-util-cursor-static - Static libraries for xcb-util-cursor
+xcb-util-image - Utility libraries for XC Binding - Port of Xlib's XImage and XShmImage functions
+xcb-util-image-static - Static libraries for xcb-util-image
+xcb-util-keysyms - Utility libraries for XC Binding - Standard X key constants and conversion to/from keycodes
+xcb-util-keysyms-static - Static libraries for xcb-util-keysyms
+xcb-util-renderutil - Utility libraries for XC Binding - Convenience functions for the Render extension
+xcb-util-renderutil-static - Static libraries for xcb-util-renderutil
+xcb-util-static - Static libraries for xcb-util
+xcb-util-wm - Utility libraries for XC Binding - client and window-manager helpers for ICCCM
+xcb-util-wm-static - Static libraries for xcb-util-wm
+xcb-util-xrm - XCB utility functions for the X resource manager
+xcb-util-xrm-static - Static libraries for xcb-util-xrm
+xcompmgr - Composite Window-effects manager for X.org
+xdelta3 - xdelta3 - VCDIFF (RFC 3284) binary diff tool
+xfce4 - A metapackage that installs all parts of the XFCE desktop environment
+xfce4-panel - Panel for the XFCE environment
+xfce4-panel-static - Static libraries for xfce4-panel
+xfce4-session - A session manager for XFCE environment
+xfce4-settings - Settings manager for XFCE environment
+xfce4-terminal - Terminal Emulator for the XFCE environment
+xfconf - Flexible, easy-to-use configuration management system
+xfconf-static - Static libraries for xfconf
+xfdesktop - A desktop manager for XFCE environment
+xfwm4 - Window manager for XFCE environment
+xkeyboard-config - X keyboard configuration files
+xmake - A cross-platform build utility based on Lua
+xmlsec - XML Security Library
+xmlsec-static - Static libraries for xmlsec
+xmlstarlet - Command line XML toolkit
+xorg-font-util - X.Org font utilities
+xorg-fonts-100dpi - X.org 100dpi fonts
+xorg-fonts-75dpi - X.org 75dpi fonts
+xorg-fonts-alias - X.org font alias files
+xorg-fonts-encodings - X.org font encoding files
+xorg-iceauth - ICE authority file utility
+xorg-luit - Filter that can be run between an arbitrary application and a UTF-8 terminal emulator
+xorg-mkfontscale - Create an index of scalable font files for X
+xorg-server-xvfb - X virtual framebuffer
+xorg-twm - Tab Window Manager for the X Window System
+xorg-util-macros - X.Org Autotools macros
+xorg-xauth - X.Org authorization settings program
+xorg-xcalc - Scientific calculator for X
+xorg-xclock - X clock
+xorg-xdpyinfo - Display information utility for X
+xorg-xev - Print contents of X events
+xorg-xhost - Server access control program for X
+xorg-xkbcomp - X Keyboard description compiler
+xorg-xlsfonts - List available X fonts
+xorg-xmessage - Display a message or query in a window
+xorg-xrdb - X server resource database utility
+xorg-xsetroot - Classic X utility to set your root window background to a given pattern or color
+xorgproto - X.Org X11 Protocol headers
+xorriso - Tool for creating ISO files.
+xournal - Notetaking and sketching application
+xrdp - An open source remote desktop protocol (RDP) server
+xrdp-static - Static libraries for xrdp
+xsel - Command-line program for getting and setting the contents of the X selection
+xsltproc - XSLT command line processor
+xterm - A compatibility wrapper for Aterm
+xtrans - X transport library
+xvidcore - High performance and high quality MPEG-4 library
+xvidcore-static - Static libraries for xvidcore
+xz-utils - XZ-format compression tools
+yadm - Yet Another Dotfiles Manager
+yajl - Yet Another JSON Library
+yajl-static - Static libraries for yajl
+yara - Tool aimed at helping malware researchers to identify and classify malware samples
+yara-static - Static libraries for yara
+yarn - Fast, reliable, and secure dependency management
+yasm - Assembler supporting the x86 and AMD64 instruction sets
+yasm-static - Static libraries for yasm
+youtubedr - Download youtube video in Golang
+ytb-player - Simple CLI YouTube downloader
+z3 - Z3 is a theorem prover from Microsoft Research.
+zbar - Software suite for reading bar codes from various sources
+zbar-static - Static libraries for zbar
+zeronet - Decentralized websites using Bitcoin crypto and BitTorrent network
+zile - Lightweight clone of the Emacs text editor
+zip - Tools for working with zip files
+zlib - Compression library implementing the deflate compression method found in gzip and PKZIP
+zlib-static - Static libraries for zlib
+zopfli - New zlib compatible compressor tools
+zsh - Shell with lots of features
+zstd - Zstandard compression.
+zstd-static - Static libraries for zstd
+zsync - A file transfer program to download files from remote web servers
